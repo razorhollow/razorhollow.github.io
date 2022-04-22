@@ -1,4 +1,4 @@
-alert("connected");
+
 
 const prizes = [
     "Sitka Stratus WS Beanie",
