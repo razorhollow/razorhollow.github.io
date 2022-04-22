@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background-color: #121212;
+    font: large "Fira Sans", sans-serif;
+  }
+  
+  h3 {
+    color: #ebebf5;
+  }
+  
+  button {
+    height: 100px;
+    width: 250px;
+    border-radius: 15px;
+    font-size: large;
+    background-color: #506680;
+    border: black;
+    color: #ebebf5;
+    cursor: pointer;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .winner {
+    margin: 30px;
+    color: white;
+    /*   width: 30%; */
+    background-color: black;
+  }
